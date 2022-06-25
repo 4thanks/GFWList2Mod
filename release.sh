@@ -127,6 +127,8 @@ function GenerateRules() {
                 "https://dns.opendns.com:443/dns-query"
                 "https://dns11.quad9.net:443/dns-query"
                 "https://dns64.dns.google:443/dns-query"
+                "https://doh.dns.sb:443/dns-query"
+                "tls://dot.sb:853"
                 "tls://dns.google:853"
                 "tls://dns.opendns.com:853"
                 "tls://dns11.quad9.net:853"
