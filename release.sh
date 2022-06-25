@@ -114,8 +114,8 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 #"https://dns.alidns.com:443/dns-query"
-                #"https://dns.ipv6dns.com:443/dns-query"
-                #"https://doh.360.cn:443/dns-query"
+                "https://dns.ipv6dns.com:443/dns-query"
+                "https://doh.360.cn:443/dns-query"
                 #"https://doh.pub:443/dns-query"
                 "tls://dns.alidns.com:853"
                 "tls://dns.ipv6dns.com:853"
@@ -124,12 +124,10 @@ function GenerateRules() {
             )
             foreign_dns=(
                 "https://dns.alidns.com:443/dns-query"
-                "https://dns.ipv6dns.com:443/dns-query"
-                "https://doh.360.cn:443/dns-query"
                 "https://doh.pub:443/dns-query"
                 "https://dns.google:443/dns-query"
                 "https://dns.opendns.com:443/dns-query"
-                #"https://dns11.quad9.net:443/dns-query"
+                "https://dns11.quad9.net:443/dns-query"
                 "https://dns64.dns.google:443/dns-query"
                 "https://doh.dns.sb:443/dns-query"
                 "https://dns.twnic.tw:443/dns-query"
@@ -137,7 +135,7 @@ function GenerateRules() {
                 "tls://dot.sb:853"
                 "tls://dns.google:853"
                 "tls://dns.opendns.com:853"
-                #"tls://dns11.quad9.net:853"
+                "tls://dns11.quad9.net:853"
                 "tls://dns64.dns.google:853"
             )
             function GenerateRulesHeader() {
