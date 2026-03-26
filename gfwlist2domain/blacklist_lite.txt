@@ -4456,6 +4456,7 @@ buypass.se
 buyshoponly.com
 buzzardflapper.com
 buzzav.com
+buzzfeed.com
 buzzhand.com
 buzzhand.net
 buzzorange.com
@@ -5159,6 +5160,7 @@ chubold.com
 chubun.com
 chuneo.xyz
 chunja19.net
+chunkbase.com
 chuokoron.jp
 chuporno.com
 churchinhongkong.org
@@ -7678,6 +7680,7 @@ epochweek.com
 epochweekly.com
 eporner.com
 equinenow.com
+equinox.io
 erabaru.net
 eraofconnection.com
 erepublik.com
@@ -10857,7 +10860,6 @@ hizbuttahrir.org
 hjb246.top
 hjb7e9.top
 hjclub.info
-hjd.tw
 hjd2048.com
 hk-pub.com
 hk01.com
@@ -14745,6 +14747,7 @@ mindrolling.org
 minecraft-services.net
 minecraft.net
 minecraft.wiki
+minecraftforge.net
 minecraftservices.com
 minecraftshop.com
 mingdemedia.org
@@ -15714,6 +15717,7 @@ nakuz.com
 nalandabodhi.org
 nalandawest.org
 name.com
+namemc.com
 namemybeats.com
 namethatporn.com
 namethatpornad.com
@@ -16055,6 +16059,7 @@ nginx.com
 nginx.org
 nginxconfig.io
 ngodupdongchung.com
+ngrok-agent.com
 ngrok-free.app
 ngrok-free.dev
 ngrok-free.pizza
@@ -16904,6 +16909,7 @@ opte.org
 optica.org
 opticore.com
 opticsforthecloud.net
+optifine.net
 optimumssl.com
 or.id
 or.jp
@@ -19461,6 +19467,7 @@ search.google
 search.xxx
 searchtruth.com
 searx.me
+searx.space
 seasidestory.tokyo
 seatguru.com
 seattlefdc.com
@@ -20093,7 +20100,6 @@ sixth.biz
 sjcollect.com
 sjhsp1.buzz
 sjrt.org
-sjum.cn
 skate2.com
 skebetter.com
 sketchappsources.com
@@ -20490,6 +20496,7 @@ spicywriter.com
 spideroak.com
 spiderpool.com
 spiegel.de
+spigotmc.org
 spike.com
 spiritclubs.com
 spiritofecstasy.com
@@ -21269,6 +21276,8 @@ tejaratbank.ir
 teldap.tw
 telebay.com
 telecomspace.com
+telega.info
+telega.me
 telega.one
 telegra.ph
 telegram-cdn.org
