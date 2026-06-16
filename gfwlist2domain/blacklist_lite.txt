@@ -10466,6 +10466,7 @@ googleapps.com
 googlearth.com
 googleartproject.com
 googleblog.com
+googlebook.google
 googlebot.com
 googlecapital.com
 googlecensorship.org
@@ -17947,6 +17948,7 @@ passion.com
 passiontimes.hk
 passport.net
 passwordday.org
+passwords.google
 pastahealth.com
 paste.ee
 pastebin.com
@@ -25644,7 +25646,6 @@ xn--cck4d8b3009a.com
 xn--czq75pvv1aj5c.org
 xn--d1abkf4ap.fun
 xn--d4ty0ojsqzfd.com
-xn--dgtr4ppoz.com
 xn--fiqs8s1bxp3anr7a.hk
 xn--fiqs8s1byzqyvl.hk
 xn--flw351e.com
