@@ -750,6 +750,7 @@ accomable.com
 account-paypal.info
 account-paypal.net
 account-paypal.org
+accountboy.com
 accountkit.com
 accountpaypal.com
 accountpaypal.net
@@ -1272,6 +1273,7 @@ akamaitech.net
 akamaitechnologies.com
 akamaitechnologies.net
 akamaized-staging.net
+akamaized.net
 akamaizercentral.com
 akamak.com
 akamam.com
@@ -10282,6 +10284,8 @@ gofile.me
 gofucker.com
 gofuckmenow.com
 gofundme.com
+gog-statics.com
+gog.com
 gogettaxi.org
 gogle.com
 gogle.de
