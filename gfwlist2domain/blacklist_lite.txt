@@ -2156,6 +2156,7 @@ appsto.re
 appstore.hk
 appstore.my
 appstore.ph
+appteka.store
 appule.com
 appye.com
 appyq.com
