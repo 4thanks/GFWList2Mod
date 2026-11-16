@@ -5894,6 +5894,7 @@ buic.ac.uk
 buicha.social
 buila.ac.uk
 building3dcontent.com
+builds.dotnet.microsoft.com
 built-in.google
 builtenvsigns.ac.uk
 builtfromebay.com
@@ -8806,6 +8807,7 @@ deasians.com
 debalie.nl
 debank.com
 debian.org
+debot.ai
 debs.ac.uk
 debug.com
 debugproject.com
@@ -9754,6 +9756,7 @@ dotgov.gov
 dotherex.com
 dothq.org
 dotmac.de
+dotnetcli.trafficmanager.net
 dotplane.com
 dotrural.ac.uk
 dotsub.com
@@ -26962,6 +26965,7 @@ reload.ac.uk
 relu.ac.uk
 rememberingslavery.ac.uk
 remirepo.net
+remna.dev
 remna.st
 rems-cdt.ac.uk
 renaissanceskin.ac.uk
@@ -30268,6 +30272,7 @@ sundayready.com
 sunderland.ac.uk
 sunderlandcollege.ac.uk
 sunderlandsixthform.ac.uk
+sundry-star-net-geo.trafficmanager.net
 sunglassessale2014.com
 sunitec.ac.uk
 sunmedia.ca
