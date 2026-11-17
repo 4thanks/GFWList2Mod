@@ -8465,6 +8465,7 @@ cybertrust.ne.jp
 cyberx.com
 cyclops-network.ac.uk
 cygames.co.jp
+cygames.com
 cygames.jp
 cygwin.com
 cylink.pro
@@ -36164,6 +36165,7 @@ yaya.cyou
 yayabay.com
 yayadizhi.xyz
 yazhouse8.com
+yb-payment.ru
 ycc.ac.uk
 yccdn.ru
 yclients.com
